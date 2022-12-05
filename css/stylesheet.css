@@ -2,7 +2,7 @@ body {
   font-family: sans-serif;
 }
 
-img {
+.my_photo {
   width: 600px;
 }
 
@@ -24,16 +24,8 @@ img {
   color: red;
 }
 
-.self_title {
-  color: red;
-}
-
 .skill {
   list-style: circle;
-}
-
-.skills .self_title {
-  color: green;
 }
 
 .occupations a {
@@ -42,8 +34,4 @@ img {
 
 .occupations .time {
   font-size: 80%;
-}
-
-.last_title {
-  color: green;
 }
